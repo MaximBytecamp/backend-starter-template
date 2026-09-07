@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "card": "S-1043",
+    "role": "student",
+    "book": "Лутц. Изучаем Python",
+    "taken_at": "2026-08-07T10:00:00",
+    "returned_at": null
+  },
+  {
+    "id": 2,
+    "card": "S-1043",
+    "role": "student",
+    "book": "Кормен. Алгоритмы",
+    "taken_at": "2026-08-29T10:00:00",
+    "returned_at": null
+  },
+  {
+    "id": 3,
+    "card": "T-0007",
+    "role": "teacher",
+    "book": "Мартин. Чистый код",
+    "taken_at": "2026-07-21T10:00:00",
+    "returned_at": null
+  },
+  {
+    "id": 4,
+    "card": "S-2210",
+    "role": "student",
+    "book": "Клеппман. Data-intensive",
+    "taken_at": "2026-08-18T10:00:00",
+    "returned_at": "2026-09-05"
+  },
+  {
+    "id": 5,
+    "card": "S-2210",
+    "role": "student",
+    "book": "Фаулер. Рефакторинг",
+    "taken_at": "2026-09-04T10:00:00",
+    "returned_at": null
+  },
+  {
+    "id": 6,
+    "card": "T-0007",
+    "role": "teacher",
+    "book": "Бэнкс. FastAPI",
+    "taken_at": "2026-08-21T10:00:00",
+    "returned_at": null
+  },
+  {
+    "id": 7,
+    "card": "S-1877",
+    "role": "student",
+    "book": "Рамальо. Python к вершинам",
+    "taken_at": "2026-07-07T10:00:00",
+    "returned_at": null
+  }
+]
