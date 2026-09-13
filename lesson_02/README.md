@@ -1,4 +1,4 @@
-# Занятие 5 · окружение, модули и пакеты
+# Занятие 2 · окружение, модули и пакеты
 
 Работа по теме 2 «Структура проекта»: всё, что разбиралось в книге занятия,
 вы повторяете на своём маленьком проекте.
@@ -15,14 +15,14 @@ https://algorthimization-course-vvodnoe.vercel.app/mdk0101-razrabotka-modulei/le
 
 ```
 start/trip.py      заготовка: один файл, в нём данные, расчёты и вывод
-homework_05.md     домашнее задание
+homework_02.md     домашнее задание
 ```
 
 Данные внутри файла, внешних зависимостей нет. Проверьте, что заготовка
 запускается:
 
 ```bash
-cd lesson_05/start
+cd lesson_02/start
 python3 trip.py
 ```
 
@@ -38,13 +38,13 @@ python3 trip.py
 
 ## Шаг 0. Забрать новую папку из шаблона
 
-Папка `lesson_05/` появилась в шаблоне после того, как вы завели свой
+Папка `lesson_02/` появилась в шаблоне после того, как вы завели свой
 репозиторий. Заберите её к себе:
 
 ```bash
 git remote add upstream https://github.com/MaximBytecamp/backend-starter-template.git
 git fetch upstream
-git checkout upstream/main -- lesson_05
+git checkout upstream/main -- lesson_02
 ```
 
 `git remote add` нужен один раз, дальше хватит `git fetch upstream`.
@@ -52,7 +52,7 @@ git checkout upstream/main -- lesson_05
 ## Шаг 1. Ветка на задание
 
 ```bash
-git switch -c hw-05
+git switch -c hw-02
 ```
 
 ## Шаг 2. Рабочая папка и окружение
@@ -61,8 +61,8 @@ git switch -c hw-05
 и сравнить.
 
 ```bash
-cp -r lesson_05/start lesson_05/trip-report
-cd lesson_05/trip-report
+cp -r lesson_02/start lesson_02/trip-report
+cd lesson_02/trip-report
 python3 -m venv .venv
 source .venv/bin/activate
 ```
@@ -105,7 +105,7 @@ tests/test_calculator.py
 
 ## Шаг 5. Дописать два расчёта
 
-Это и есть содержательная часть задания, она описана в `homework_05.md`.
+Это и есть содержательная часть задания, она описана в `homework_02.md`.
 
 ## Шаг 6. Тесты
 
@@ -125,9 +125,9 @@ python -m unittest discover -s tests -v
 
 ```bash
 cd ../..
-git add lesson_05
-git commit -m "hw-05: окружение, пакет и тесты для отчёта по поездке"
-git push -u origin hw-05
+git add lesson_02
+git commit -m "hw-02: окружение, пакет и тесты для отчёта по поездке"
+git push -u origin hw-02
 ```
 
 Дальше на GitHub открываете Pull Request в свою `main`. В описании коротко:
