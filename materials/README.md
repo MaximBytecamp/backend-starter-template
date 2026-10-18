@@ -11,5 +11,5 @@
 | [`tema-01-vvodnaya`](tema-01-vvodnaya/) | 1 · Вводное занятие: что такое backend | ссылки |
 | [`tema-02-struktura-proekta`](tema-02-struktura-proekta/) | 2 · Структура проекта: окружение, модули и пакеты | стартовый проект, файлы практики, итоговая раскладка на Python и Go |
 | [`tema-03-praktikum-sborka`](tema-03-praktikum-sborka/) | 3 · Практикум: сборка проекта | два задания, проекты cafe-report и text-kit, эталоны |
-| [`tema-04-annotacii-tipov`](tema-04-annotacii-tipov/) | 4 · Аннотации типов | проект «Отчёт кафе» с аннотациями и без |
+| [`tema-04-annotacii-tipov`](tema-04-annotacii-tipov/) | 4 · Аннотации типов | проект «Отчёт кафе» на Python с аннотациями и без, на Go — рабочий и с ошибками типов |
 | [`tema-05-praktikum-podpisi`](tema-05-praktikum-podpisi/) | 5 · Практикум «Младший разработчик: первая неделя» | ссылка на практикум |
