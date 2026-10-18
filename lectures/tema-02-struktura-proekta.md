@@ -6,7 +6,7 @@
 стартовый файл, разрозненные файлы для практики и итоговая раскладка
 на Python и на Go.
 
-**Задание в репозитории:** [`lesson_02`](../lesson_02/README.md) — проект trip-report.
+**Задание в репозитории:** [`lesson_02`](../lesson_02/README.md) — своё окружение и первый модуль.
 
 ## Содержание книги
 
@@ -87,9 +87,9 @@ README.md
 
 ## Что вошло в проект
 
-- Задание 2 ([`lesson_02`](../lesson_02/README.md)): проект trip-report —
-  пакет `app` с `services` и `utils`, Rich в `requirements.txt`, тесты,
-  README для запуска на чужом компьютере.
+- Задание 2 ([`lesson_02`](../lesson_02/README.md)): папка `trip` —
+  окружение `.venv`, Rich в `requirements.txt`, расчёты вынесены в модуль
+  `calculator.py`, README с командами запуска.
 
 ## Документация
 
