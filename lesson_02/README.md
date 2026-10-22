@@ -20,7 +20,7 @@ homework_02.md     домашнее задание
 **Code → Download ZIP**, распаковать и положить папку `lesson_02` к себе
 в проект.
 
-Работа уходит в ветку `hw-02` и дальше через Pull Request в вашу `main`:
-[ветки](../docs/git/README.md#5-ветки) ·
+Работа коммитится прямо в `main` и отправляется на GitHub, отдельная ветка
+и Pull Request не нужны:
 [коммиты](../docs/git/README.md#3-изменения-и-коммиты) ·
-[публикация ветки и Pull Request](../docs/git/README.md#6-ветки-на-github-и-pull-request).
+[отправить на GitHub](../docs/git/README.md#отправить-на-github).

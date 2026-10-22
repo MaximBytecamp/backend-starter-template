@@ -30,4 +30,4 @@ https://algorthimization-course-vvodnoe.vercel.app/mdk0101-razrabotka-modulei/le
 
 Без файла рецензии работа не принимается.
 
-Сдача: ветка `hw-04`, Pull Request в свою `main`.
+Сдача: коммит `hw-04: …` в `main` и отправка на GitHub.
