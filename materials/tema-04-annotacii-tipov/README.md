@@ -6,7 +6,7 @@
 
 | Файл | Что это |
 |---|---|
-| [`otchet-kafe-start/`](otchet-kafe-start/) | проект «Отчёт кафе» с аннотациями типов; запуск — в его `README.md` |
-| [`otchet-kafe-bez-tipov/`](otchet-kafe-bez-tipov/) | тот же проект без аннотаций; с ним работают в `lesson_05`, вариант Python |
+| [`otchet-kafe-start/`](otchet-kafe-start/) | проект «Отчёт кафе» с аннотациями типов; запуск — в его `README.md`; с ним работают в `lesson_06` |
+| [`otchet-kafe-bez-tipov/`](otchet-kafe-bez-tipov/) | тот же проект без аннотаций; с ним работают в `lesson_05`, вариант Python, и на шаге 8 `lesson_06` |
 | [`otchet-kafe-go-start/`](otchet-kafe-go-start/) | проект «Отчёт кафе» на Go: собирается, тесты проходят |
 | [`otchet-kafe-go-oshibki/`](otchet-kafe-go-oshibki/) | тот же проект на Go с двенадцатью ошибками типов; с ним работают в `lesson_05`, вариант Go |
